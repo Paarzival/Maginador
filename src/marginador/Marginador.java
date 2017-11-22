@@ -15,7 +15,8 @@ public class Marginador {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      main m = new main();
+      //main m = new main();
+      window m = new window();
       m.setVisible(true);
     }
     

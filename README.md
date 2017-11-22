@@ -1,2 +1,4 @@
 # Maginador
-Marginador Intermercado 
+Marginador Intermercado v1.5
+
+Developed by Anorak!
